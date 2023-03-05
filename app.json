@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "ChuyenDoiDonVi",
+    "name": "Quy đổi tiền tệ",
     "slug": "ChuyenDoiDonVi",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon2.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
